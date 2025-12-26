@@ -45,6 +45,7 @@
 | Ronak Goyal            | ronakgoyal1             | IIIT Allahabad                                                   |
 | Sayed Al Amaan Zaidi           | amaan1114           | Rishihood University                                   |
 | Roshan Gupta           | roshangupta4804-hue        | IIIT Allahabad  
+| Adarsh Yadav           | adrsh2808-creator          | IIIT Allahabad                                          |
 | N Satish               | SATII2004                | K L University |
 | Paarth Arora            | iit2025280-sys            | IIIT Allahabad
 | Somesh Pawan Kamad      | Entropy-rgb         | IIIT Hyderabad                                                |
