@@ -47,5 +47,6 @@
 | Somesh Pawan Kamad      | Entropy-rgb         | IIIT Hyderabad                                                |
 | Roshan Gupta           | roshangupta4804-hue        | IIIT Allahabad                                                |
 | Ishan Raj Singh        | ishanrajsingh            | Amity Noida                                                      |
+|Aditya Singh            | adityasingh-0803         | BVDUCOEP                                                        |
 <!-- ADD ABOVE THIS -->
 <!-- example | Korvac | Betty | Reyansh College | -->
