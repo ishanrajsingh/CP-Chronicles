@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 //Submission link: https://codeforces.com/problemset/submission/1225/355220477
+=======
+>>>>>>> 9a216505d6681dbb7f52ed43cb9a5ffa74902893
 #include <bits/stdc++.h>
 using namespace std;
 

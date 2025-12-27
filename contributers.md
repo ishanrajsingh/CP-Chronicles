@@ -44,7 +44,11 @@
 | Ayush Mishra           | ayush-mg                | IIIT Allahabad                                                   |
 | Ronak Goyal            | ronakgoyal1             | IIIT Allahabad                                                   |
 | Sayed Al Amaan Zaidi           | amaan1114           | Rishihood University                                   |
+| Somesh Pawan Kamad      | Entropy-rgb         | IIIT Hyderabad                                                |
+| Roshan Gupta           | roshangupta4804-hue        | IIIT Allahabad                                                |
+| Ishan Raj Singh        | ishanrajsingh            | Amity Noida                                                     |
 |Aditya Singh            | adityasingh-0803         | BVDUCOEP                                                        |
+<<<<<<< HEAD
 | Ishan Raj Singh        | ishanrajsingh            | Amity, Noida     
 |Priyanshi Giri		| hellopaintinghi-cmd        | IIIT Allahabad                                               |
 | Mahavir dodiya         |Mvdodiya001               |  IIIT Allahabad                                                 |
@@ -53,5 +57,7 @@
 | Lakshmish            | Coldesy             | IIIT Allahabad 
 |Priyanshu Ranjan        | justpriyanshu            | BIT Mesra
 | Atharva Mehta          | Atharva-insane           |  IIIT Allahabad                                                  |                                               
+=======
+>>>>>>> 9a216505d6681dbb7f52ed43cb9a5ffa74902893
 <!-- ADD ABOVE THIS -->
 <!-- example | Korvac | Betty | Reyansh College | -->
